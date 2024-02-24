@@ -43,7 +43,6 @@ html{
     padding: 3px;
     transition: .5s;
     text-decoration: none;
-    border-radius: 5px;
 }
 .contenedor-header header nav ul li a:hover{
     color: #A59D95;
