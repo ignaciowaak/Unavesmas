@@ -46,16 +46,16 @@ html{
 }
 .contenedor-header header nav ul li a:hover{
     color: #A59D95;
-    border-radius: 5px;
+  
 }
 .nav-responsive{
     background-color: #A59D95;
     color:#fff;
     padding: 5px 10px;
-    border-radius: 5px;
+    
     cursor: pointer;
     display: none;
-    border-radius: 5px;
+    
 }
 /* SECCION I N I C I O */
 .inicio{
@@ -66,7 +66,7 @@ html{
     color: #fff;
     display: flex;
     align-items: center;
-    border-radius:5px;
+    
 }
 .inicio .contenido-banner{
     padding: 20px;
