@@ -6,7 +6,7 @@
     padding: 0;
 }
 html{
-    /* me permite deslizar cuando hago clic en los links del menu */
+    /* mee permite deslizar cuando hago clic en los links del menu */
     scroll-behavior: smooth;
 }
 /* MENU */
@@ -43,9 +43,11 @@ html{
     padding: 3px;
     transition: .5s;
     text-decoration: none;
+    border-radius: 5px;
 }
 .contenedor-header header nav ul li a:hover{
     color: #A59D95;
+    border-radius: 5px;
 }
 .nav-responsive{
     background-color: #A59D95;
@@ -54,6 +56,7 @@ html{
     border-radius: 5px;
     cursor: pointer;
     display: none;
+    border-radius: 5px;
 }
 /* SECCION I N I C I O */
 .inicio{
@@ -64,6 +67,7 @@ html{
     color: #fff;
     display: flex;
     align-items: center;
+    border-radius:5px;
 }
 .inicio .contenido-banner{
     padding: 20px;
